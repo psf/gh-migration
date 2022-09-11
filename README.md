@@ -78,7 +78,7 @@ In addition to bugs.python.org, we are also hosting two other instances:
 * Jython is already using [GitHub issues](https://github.com/jython/jython/issues)
 * Still has a legacy instance of Roundup at https://bugs.jython.org/ (bjo)
 * [Thread on the Jython ML that suggests to switch to GitHub issues but keep bugs.jython.org around](https://sourceforge.net/p/jython/mailman/jython-dev/thread/CAOhO%3DaNp9oPkMwO58vK0L5gqL_nG8UD0mWom%3D1XLqxdbyfU34w%40mail.gmail.com/#msg37020624)
-* They are also using bjo for the CLA
+* They are using [the form on python.org](https://www.python.org/psf/contrib/contrib-form) to sign the CLA and bpo to check it.
 * They would be fine with a mostly read-only bjo
 
 ## Roundup
